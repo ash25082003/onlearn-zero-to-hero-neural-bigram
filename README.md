@@ -38,3 +38,13 @@ and watch the loss fall while your network invents names.
 
 Next up: the next lecture in the course - **makemore Part 2: MLP** - where more context and
 a real hidden layer finally beat 2.45.
+
+---
+
+## More from Onlearn
+
+This is **Module 2 - Project 2** of **[Neural Networks: Zero to Hero](https://onlearn.app/projects/nn-zero-to-hero)**
+on Onlearn — guided, build-it-yourself projects with an AI tutor that checks your work against
+the tests.
+
+**[→ Explore more courses](https://onlearn.app/projects)**
