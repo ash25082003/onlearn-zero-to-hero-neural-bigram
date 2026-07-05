@@ -36,8 +36,8 @@ move on when ready for the next milestone.
 The tests decide when you're done - not the tutor. When they all pass, run `python train.py`
 and watch the loss fall while your network invents names.
 
-Next up: the next lecture in the course - **makemore Part 2: MLP** - where more context and
-a real hidden layer finally beat 2.45.
+Next up: **[Module 3 - Build an MLP language model](https://onlearn.app/projects/nn-zero-to-hero/mlp-language-model)**,
+where more context and a real hidden layer finally beat 2.45.
 
 ---
 
